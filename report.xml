@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<detalle_venta>
+  <fecha>2021-01-01</fecha>
+  <nombre>Song Mino</nombre>
+  <direccion>Torre N Namsang</direccion>
+  <dni>72685413</dni>
+  <producto>PLAC Polera</producto>
+  <documento>Factura</documento>
+  <numero>005</numero>
+  <cantidad>3</cantidad>
+  <stock>5</stock>
+  <subtotal>15</subtotal>
+</detalle_venta>
